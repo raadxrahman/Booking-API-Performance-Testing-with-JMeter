@@ -2,7 +2,7 @@
 ### In this project, I have used Jmeter to find the actual throughput(TPS), expected TPS and Bottleneck TPS for a site with a given number of users and time. Load test and Stress test(s) were carried out to find TPS values.
 
 ## Site Tested
-https:restful-booker.herokuapp.com
+https://restful-booker.herokuapp.com
 
 ### Scenario:
 120,000 users over a 12-hour period log in, create a booking, and search for the

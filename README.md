@@ -21,6 +21,9 @@ booking.
 - Clone this project
 - Open the .jmx file using JMeter
 
+### TPS & Bottleneck Calculations 
+Link to Excel: https://docs.google.com/spreadsheets/d/1uP1Y8Ru0Ijzi4sHCAEg7oMJMM5hCTwxU/edit?usp=sharing&ouid=105043411924406613334&rtpof=true&sd=true
+
 ## Expected Throughput
 ![Screenshot 2025-03-12 010022](https://github.com/user-attachments/assets/e1ec2fb6-d29b-4141-ba9c-9e5ba0614cf3)
 

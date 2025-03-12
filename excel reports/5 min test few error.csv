@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Login,833,1247,1074,8236,442.35,0.000%,2.77507,2.11,0.85,777.3
+Create Booking,833,328,267,7313,344.00,0.000%,2.75247,2.47,1.19,918.3
+Search Booking,833,313,266,4293,210.04,0.360%,2.74867,2.39,0.65,889.0
+TOTAL,2499,629,266,8236,557.15,0.120%,8.15412,6.86,2.66,861.5

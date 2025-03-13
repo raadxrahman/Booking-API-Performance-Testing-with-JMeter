@@ -3,6 +3,9 @@
 
 ## Site Tested
 https://restful-booker.herokuapp.com
+#### Paths:
+- /booking
+- /booking/<booking_id>
 
 ### Scenario:
 120,000 users over a 12-hour period log in, create a booking, and search for the

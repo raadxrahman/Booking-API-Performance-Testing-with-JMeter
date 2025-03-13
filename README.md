@@ -1,5 +1,5 @@
-# Booking-API Performance Testing with Jmeter
-### In this project, I have used Jmeter to find the actual throughput(TPS), expected TPS and Bottleneck TPS for a site with a given number of users and time. Load test and Stress test(s) were carried out to find TPS values.
+# Booking-API Performance Testing with JMeter
+### In this project, I have used JMeter to find the actual throughput(TPS), expected TPS and Bottleneck TPS for a site with a given number of users and time. Load test and Stress test(s) were carried out to find TPS values.
 
 ## Site Tested
 https://restful-booker.herokuapp.com
@@ -15,7 +15,7 @@ booking.
 - Timer: Gaussian Random Timer (Deviation 2000ms, Constant delay 500ms)
 
 ## Tools Used
-  - Apache Jmeter
+  - Apache JMeter
 
 ## How to run this project
 - Clone this project

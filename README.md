@@ -8,7 +8,7 @@ https://restful-booker.herokuapp.com
 120,000 users over a 12-hour period log in, create a booking, and search for the
 booking. 
 
-### Load
+### Parameters
 - Users: 120000
 - Time: 12 Hours
 - Error Threshold: 0.5%
